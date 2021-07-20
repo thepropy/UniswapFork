@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": ".",
+  "homepage": "https://stupefied-ardinghelli-0580da.netlify.app/#/swap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
